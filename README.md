@@ -4,14 +4,14 @@
 
 1. 前往 <https://classroom.github.com/a/4dHPWctS> 接受作業邀請 (需登入 GitHub, **尚未配對成功者**，請**配對姓名**)
 1. 接受作業後，前往**個人作業 repo**  
-(位於 `https://github.com/rlads2019/hw3-<你的 GitHub 帳號>`, e.g. `https://github.com/rlads2019/hw3-liao961120`。這個 repo 只有你和助教看得到)
-1. 使用 GitHub Desktop (或 git command line) 將 `https://github.com/rlads2019/hw3-<你的 GitHub 帳號>.git` clone 到自己電腦上
+(位於 `https://github.com/rlads2019/hw3-vector-vector-vector-<你的 GitHub 帳號>`, e.g. `https://github.com/rlads2019/hw3-vector-vector-vector-liao961120`。這個 repo 只有你和助教看得到)
+1. 使用 GitHub Desktop (或 git command line) 將 `https://github.com/rlads2019/hw3-vector-vector-vector-<你的 GitHub 帳號>.git` clone 到自己電腦上
 
 ## 作業繳交
 
 1. 完成作業後，將 `index.Rmd` 輸出成 `index.html` (記得一定要 `knit` 成 HTML 檔喔)
 1. 至 GitHub Desktop '**commit**' 整份資料夾內的檔案，並 '**push**' 至 GitHub
-1. 至 `https://github.com/rlads2019/hw3-<你的 GitHub 帳號>` 確認作業成功上傳
+1. 至 `https://github.com/rlads2019/hw3-vector-vector-vector-<你的 GitHub 帳號>` 確認作業成功上傳
 
 
 ## 注意事項
